@@ -7,11 +7,11 @@
 }
 
 .pfive {
-  Display: block;
-  Margin-left: auto;
-  Margin-right: auto;
-  Height: 500px;
-  Width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 500px;
 }
 
 #paragraph {

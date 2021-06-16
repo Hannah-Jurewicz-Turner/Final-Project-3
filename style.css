@@ -1,0 +1,59 @@
+.body {
+  background-color: lavenderblush;
+}
+
+.header {
+  text-align: center;
+}
+
+.pfive {
+  Display: block;
+  Margin-left: auto;
+  Margin-right: auto;
+  Height: 500px;
+  Width: 500px;
+}
+
+#paragraph {
+  font-size: 150%;
+}
+
+#button {
+  font-size: 120%;
+}
+
+.div-one {
+  text-align: center;
+  border: 15px solid pink;
+  border-style: dotted;
+  margin: 20px;
+  padding: 15px;
+}
+
+.div-two {
+  text-align: center;
+  margin: 15px;
+  border: 15px solid pink;
+  border-style: double;
+  padding: 15px;
+}
+
+#input {
+  font-size: 120%;
+}
+
+#button-two {
+  font-size: 120%;
+}
+
+#answer {
+  font-size: 120%;
+}
+
+.link {
+  text-align: center;
+}
+
+.div-three {
+  text-align: center;
+}
